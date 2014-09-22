@@ -9,7 +9,7 @@ Write a program that will take a hardcoded string, and console log the reversed 
 `var inputString = "building"`
 
 ##filterLongWords.js
-Hardcode an array of words. Have a variable maxLength, push words that are less than the maxLength into a new array, and console.log that.
+Hardcode an array of words. Hardocde another variable called `maxLength`.  Set it equal to 5, to start. Push words that are less than the maxLength into a new array, and console.log the new array.
 
 
 ##pluralizer.js
